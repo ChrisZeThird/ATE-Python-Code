@@ -2,4 +2,5 @@ Here, you can find two codes. The first one is meant to convert recorded datas s
 
 The Numpy arrays and the original data files can be found as well.
 
+A problem about iteration in dictionnaries wouldn't have been solved without the help of a comment posted by MSeifert on Stack Overflow (https://stackoverflow.com/questions/45877614/how-to-change-all-the-dictionary-keys-in-a-for-loop-with-d-items), where they explain the main issue of iteration through a dictionnary in order to change its key. So thank you for that.
 
