@@ -2,6 +2,6 @@ Here, you can find two codes. The first one is meant to convert recorded datas s
 
 The Numpy arrays can be found as well.
 
-For some reason, the label are not showing on the graphs, so :
+Lastly, for some reason, some labels are not showing on the graph, so :
   - xlabel : Wavelength (nm)
   - ylabel : Light intensity
