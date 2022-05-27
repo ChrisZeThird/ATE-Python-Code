@@ -1,5 +1,5 @@
 # ATE-Python-Code
-Various programms developped for an project class at University. The goal is to showcase the Rayleigh and Mie Scattering of light with different diffusion solutions such as Milk, or nanometric gold particles. The repository gathers data collections, diffusion simulation and much more.
+Various programms developped for a project class at University. The goal is to showcase the Rayleigh and Mie Scattering of light with different diffusion solutions such as Milk, or nanometric gold particles. The repository gathers data collections, diffusion simulation and much more.
 
 # About this project
 During the 6th semester, students are to participate in experimental class during the entire semester, as an initiation of the life of a researcher in a laboratory. 
